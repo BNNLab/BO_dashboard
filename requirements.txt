@@ -1,7 +1,7 @@
-streamlit==1.49.1
+streamlit
 baybe==0.15.0
-pandas==2.3.2
-numpy==2.3.3
-plotly==6.3.0
-scikit-learn==1.7.2
-scipy==1.16.2
+pandas
+numpy
+scipy
+plotly
+scikit-learn
